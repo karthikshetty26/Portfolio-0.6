@@ -1,0 +1,15 @@
+@use "../assets"as*;
+
+body {
+    footer {
+        width: 100%;
+        padding: 10px 0;
+        text-align: center;
+        background-color: $color-navy;
+        color: $color-white-shad;
+
+       p {
+           letter-spacing: 0.2rem;
+       }
+    }
+}
